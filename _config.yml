@@ -1,10 +1,10 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 测试开发成长全记录
+SEOTitle: 测试开发成长全记录
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+email: 2713478436@qq.com
+description: "就成功这一次"
+keyword: "测试开发"
 url: "https://baishanjun.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/baishanjun/baishanjun.github.io.git" # you code repository
